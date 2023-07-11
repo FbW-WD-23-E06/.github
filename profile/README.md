@@ -12,7 +12,7 @@
 | Per-Emil|||
 | Fatima |||
 | Godwin |||
-| Luke |||
+| Luke | Sudent | [@deadend1pro](https://github.com/deadend1pro)|
 |Akiko |||
 |Abdul |||
 | Ismail |||
