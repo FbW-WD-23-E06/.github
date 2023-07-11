@@ -7,13 +7,13 @@
 | Marco | Teacher | [@marcodci](https://github.com/marcodci)|
 | Carlo | Teacher | |
 | Kirill | | |
-| Ezequiel | | |
+| Ezequiel | Student | [@Pilag6](https://github.com/Pilag6) |
 | Danyal | | |
-| Per-Emil|||
+| Per-Emil| Student |[@lazyshadow](https://github.com/chimikoo)|
 | Fatima |||
 | Godwin |||
 | Luke |||
-|Akiko |||
+|Akiko | Student |[@akl51](https://github.com/akl51)|
 |Abdul |||
 | Ismail |||
 |Carlos | Student | [@Cmbs86](https://github.com/Cmbs86) | 
