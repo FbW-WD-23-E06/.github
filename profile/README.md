@@ -15,13 +15,6 @@
 | Luke | Student|[@deadend1pro](https://github.com/deadend1pro)|
 |Akiko | Student |[@akl51](https://github.com/akl51)|
 |Abdul |||
-<<<<<<< HEAD
 | Ismail |student|https://github.com/I-Ouaiahou|
-|Carlos |||
-|Elilta |||
-=======
-| Ismail |||
 |Elilta |student|[@eliltamesfin](https://github.com/eliltamesfin)|
 |Carlos | Student | [@Cmbs86](https://github.com/Cmbs86) | 
-
->>>>>>> 55d5f383b07967503cfa2863f4c117d97db467ce
