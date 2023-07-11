@@ -8,7 +8,7 @@
 | Carlo | Teacher | |
 | Kirill | | |
 | Ezequiel | Student | [@Pilag6](https://github.com/Pilag6) |
-| Danyal | | |
+| Danyal | Student| [@Danyaaaal](https://github.com/Danyaaaal)|
 | Per-Emil| Student |[@lazyshadow](https://github.com/chimikoo)|
 | Fatima | Student | [@FatimaBadaoui](https://github.com/FatimaBadaoui)|
 | Godwin |||
