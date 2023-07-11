@@ -12,7 +12,7 @@
 | Per-Emil| Student |[@lazyshadow](https://github.com/chimikoo)|
 | Fatima | Student | [@FatimaBadaoui](https://github.com/FatimaBadaoui)|
 | Godwin |||
-| Luke |||
+| Luke | Student|[@deadend1pro](https://github.com/deadend1pro)|
 |Akiko | Student |[@akl51](https://github.com/akl51)|
 |Abdul |||
 | Ismail |||
