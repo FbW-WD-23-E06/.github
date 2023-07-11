@@ -6,7 +6,7 @@
 | -------- | ------- | -------------------------------------------------- |
 | Marco    | Teacher | [@marcodci](https://github.com/marcodci)           |
 | Carlo | Teacher | [@carlotrimarchi](https://github.com/carlotrimarchi) |
-| Kirill   | Student | [@mb01] (https://github.com/0mb1)                  |
+| Kirill   | Student | [@mb01](https://github.com/0mb1)                  |
 | Ezequiel | Student | [@Pilag6](https://github.com/Pilag6)               |
 | Danyal | Student| [@Danyaaaal](https://github.com/Danyaaaal)|
 | Per-Emil | Student | [@lazyshadow](https://github.com/chimikoo)         |
