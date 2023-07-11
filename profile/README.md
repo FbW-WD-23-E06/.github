@@ -12,7 +12,7 @@
 | Danyal | Student| [@Danyaaaal](https://github.com/Danyaaaal)|
 | Per-Emil | Student | [@lazyshadow](https://github.com/chimikoo)         |
 | Fatima   | Student | [@FatimaBadaoui](https://github.com/FatimaBadaoui) |
-| Godwin   | Student | [@ckdonah](https://github.com/ckdonah             |
+| Godwin   | Student | [@ckdonah](https://github.com/ckdonah)             |
 | Luke     | Student | [@deadend1pro](https://github.com/deadend1pro)     |
 | Akiko    | Student | [@akl51](https://github.com/akl51)                 |
 |Abdul |student|[@Hassanmohsini](https://github.com/Hassanmohsini)| 
