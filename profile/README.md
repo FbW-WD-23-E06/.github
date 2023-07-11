@@ -13,7 +13,7 @@
 | Fatima |||
 | Godwin |||
 | Luke |||
-|Akiko |||
+|Akiko | Student |[@akl51](https://github.com/akl51)|
 |Abdul |||
 | Ismail |||
 |Carlos |||
