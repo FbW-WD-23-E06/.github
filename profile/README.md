@@ -8,7 +8,7 @@
 | Carlo | Teacher | |
 | Kirill | | |
 | Ezequiel | | |
-| Danyal | | |
+| Danyal | Student| [@Danyaaaal](https://github.com/Danyaaaal) |
 | Per-Emil|||
 | Fatima |||
 | Godwin |||
