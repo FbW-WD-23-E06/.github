@@ -5,7 +5,7 @@
 | Name | Role | GitHub Username |
 |-----|----|--------|
 | Marco | Teacher | [@marcodci](https://github.com/marcodci)|
-| Carlo | Teacher | |
+| Carlo | Teacher | [@carlotrimarchi](https://github.com/carlotrimarchi) |
 | Kirill | | |
 | Ezequiel | | |
 | Danyal | | |
