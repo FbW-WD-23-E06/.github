@@ -5,7 +5,7 @@
 
 | Logo |Name     | Role    | GitHub Username                                 |
 | ---  |---------|---------| ----------------------------------------------- |
-|<img src="https://avatars.githubusercontent.com/u/118737381?v=4" width="50" style="border-radius:50%" > | Marco    | Teacher | [@marcodci](https://github.com/marcodci)             |
+| <img src="https://avatars.githubusercontent.com/u/118737381?v=4" width="50" style="border-radius:50%" > | Marco    | Teacher | [@marcodci](https://github.com/marcodci)             |
 | <img src="https://avatars.githubusercontent.com/u/26264?v=4" width="50" style="border-radius:50%"> | Carlo    | Teacher | [@carlotrimarchi](https://github.com/carlotrimarchi) |
 | <img src="https://avatars.githubusercontent.com/u/101016881?v=4" width="50" style="border-radius:50%"> | Kirill   | Student | [@mb01](https://github.com/0mb1)                     |
 | <img src="https://avatars.githubusercontent.com/u/79191808?v=4" width="50" style="border-radius:50%"> | Ezequiel | Student | [@Pilag6](https://github.com/Pilag6)                 |
