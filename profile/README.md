@@ -14,8 +14,7 @@
 | Godwin |||
 | Luke | Student|[@deadend1pro](https://github.com/deadend1pro)|
 |Akiko | Student |[@akl51](https://github.com/akl51)|
-|Abdul |||
+|Abdul |student|[@Hassanmohsini](https://github.com/Hassanmohsini)| 
 | Ismail |||
 |Elilta |student|[@eliltamesfin](https://github.com/eliltamesfin)|
 |Carlos | Student | [@Cmbs86](https://github.com/Cmbs86) | 
-
