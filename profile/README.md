@@ -10,11 +10,18 @@
 | Ezequiel | Student | [@Pilag6](https://github.com/Pilag6) |
 | Danyal | | |
 | Per-Emil| Student |[@lazyshadow](https://github.com/chimikoo)|
-| Fatima |||
+| Fatima | Student | [@FatimaBadaoui](https://github.com/FatimaBadaoui)|
 | Godwin |||
-| Luke |||
+| Luke | Student|[@deadend1pro](https://github.com/deadend1pro)|
 |Akiko | Student |[@akl51](https://github.com/akl51)|
 |Abdul |||
+<<<<<<< HEAD
 | Ismail |student|https://github.com/I-Ouaiahou|
 |Carlos |||
 |Elilta |||
+=======
+| Ismail |||
+|Elilta |student|[@eliltamesfin](https://github.com/eliltamesfin)|
+|Carlos | Student | [@Cmbs86](https://github.com/Cmbs86) | 
+
+>>>>>>> 55d5f383b07967503cfa2863f4c117d97db467ce
