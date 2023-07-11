@@ -9,7 +9,7 @@
 | Kirill | | |
 | Ezequiel | Student | [@Pilag6](https://github.com/Pilag6) |
 | Danyal | | |
-| Per-Emil|||
+| Per-Emil| Student |[@lazyshadow](https://github.com/chimikoo)|
 | Fatima |||
 | Godwin |||
 | Luke |||
