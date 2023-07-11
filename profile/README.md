@@ -7,7 +7,7 @@
 | Marco | Teacher | [@marcodci](https://github.com/marcodci)|
 | Carlo | Teacher | |
 | Kirill | | |
-| Ezequiel | | |
+| Ezequiel | Student | [@Pilag6](https://github.com/Pilag6) |
 | Danyal | | |
 | Per-Emil|||
 | Fatima |||
