@@ -9,11 +9,11 @@
 | Kirill | | |
 | Ezequiel | Student | [@Pilag6](https://github.com/Pilag6) |
 | Danyal | | |
-| Per-Emil|||
+| Per-Emil| Student |[@lazyshadow](https://github.com/chimikoo)|
 | Fatima | Student | [@FatimaBadaoui](https://github.com/FatimaBadaoui)|
 | Godwin |||
 | Luke |||
-|Akiko |||
+|Akiko | Student |[@akl51](https://github.com/akl51)|
 |Abdul |||
 | Ismail |||
 |Carlos |||
