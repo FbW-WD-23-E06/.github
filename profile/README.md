@@ -2,11 +2,10 @@
 
 ## Class Participants
 
-
 | Name     | Role    | GitHub Username                                    |
 | -------- | ------- | -------------------------------------------------- |
 | Marco    | Teacher | [@marcodci](https://github.com/marcodci)           |
-| Carlo    | Teacher |                                                    |
+| Carlo | Teacher | [@carlotrimarchi](https://github.com/carlotrimarchi) |
 | Kirill   | Student | [@mb01] (https://github.com/0mb1)                  |
 | Ezequiel | Student | [@Pilag6](https://github.com/Pilag6)               |
 | Danyal | Student| [@Danyaaaal](https://github.com/Danyaaaal)|
@@ -19,3 +18,4 @@
 | Ismail   |         |                                                    |
 | Elilta   | student | [@eliltamesfin](https://github.com/eliltamesfin)   |
 | Carlos   | Student | [@Cmbs86](https://github.com/Cmbs86)               |
+
