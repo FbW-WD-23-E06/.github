@@ -10,7 +10,7 @@
 | Ezequiel | Student | [@Pilag6](https://github.com/Pilag6) |
 | Danyal | | |
 | Per-Emil|||
-| Fatima |||
+| Fatima | Student | [@FatimaBadaoui](https://github.com/FatimaBadaoui)|
 | Godwin |||
 | Luke |||
 |Akiko |||
