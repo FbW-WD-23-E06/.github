@@ -1,5 +1,17 @@
 # FbW WD 23 E06
 
+## Course calendar
+
+|   Module   | Dates  |
+| ----------- | ----------- |
+| Basic Digital Literacy (BDL) |  29 June - 12 July      |
+| User Interface Basics (UIB)   | 13 July - 04 October        |
+| Programming Basics (PB)   | 05 October - 12 December        |
+| Single Page Applications (SPA) | 02 January - 26 February |
+| Backend (BE) | 29 February - 13 May |
+| Final Project | 14 May - 03 July |
+
+
 ## Class Participants
 
 
