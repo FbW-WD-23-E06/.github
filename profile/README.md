@@ -1,6 +1,6 @@
 # FbW WD 23 E06
 
-## Course calendar
+## Web Dev Course calendar
 
 |   Module   | Dates  |
 | ----------- | ----------- |
