@@ -1,8 +1,10 @@
 # FbW WD 23 E06
 
-## [UIB Material](https://github.com/FbW-WD-23-E06/UIB)
+## Class Material
 
-## Web Dev Course calendar
+- [UIB](https://github.com/FbW-WD-23-E06/UIB)
+
+## Web Dev Course Calendar
 
 |   Module   | Dates  |
 | ----------- | ----------- |
