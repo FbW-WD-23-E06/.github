@@ -12,7 +12,7 @@
 | <img src="https://avatars.githubusercontent.com/u/131376312?v=4" width="50" style="border-radius:50%"> | Danyal   | Student | [@Danyaaaal](https://github.com/Danyaaaal)           |
 | <img src="https://avatars.githubusercontent.com/u/62369195?v=4" width="50" style="border-radius:50%"> | Per-Emil | Student | [@lazyshadow](https://github.com/chimikoo)           |
 | <img src="https://avatars.githubusercontent.com/u/138123037?v=4" width="50" style="border-radius:50%"> | Fatima   | Student | [@FatimaBadaoui](https://github.com/FatimaBadaoui)   |
-| <img src="https://avatars.githubusercontent.com/u/138124430?v=4" width="50" style="border-radius:50%"> |Godwin   |         |                                                      |
+| <img src="https://avatars.githubusercontent.com/u/138124430?v=4" width="50" style="border-radius:50%"> |Godwin   | Student | [@ckdonah](https://github.com/ckdonah) |
 | <img src="https://avatars.githubusercontent.com/u/87325406?v=4" width="50" style="border-radius:50%"> |Luke     | Student | [@deadend1pro](https://github.com/deadend1pro)       |
 | <img src="https://avatars.githubusercontent.com/u/138122651?v=4" width="50" style="border-radius:50%"> |Akiko    | Student | [@akl51](https://github.com/akl51)                   |
 | <img src="https://avatars.githubusercontent.com/u/138128966?v=4" width="50" style="border-radius:50%"> |Abdul    | Student | [@Hassanmohsini](https://github.com/Hassanmohsini)   | 
