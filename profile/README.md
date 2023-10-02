@@ -2,7 +2,8 @@
 
 ## Class Material
 
-- [UIB](https://github.com/FbW-WD-23-E06/UIB)
+- [User Interface Basics (UIB)](https://github.com/FbW-WD-23-E06/UIB)
+- [Programming Basics (PB)](https://github.com/FbW-WD-23-E06/Programming-Basics-PB)
 
 ## Web Dev Course Calendar
 
