@@ -4,6 +4,7 @@
 
 - [User Interface Basics (UIB)](https://github.com/FbW-WD-23-E06/UIB)
 - [Programming Basics (PB)](https://github.com/FbW-WD-23-E06/Programming-Basics-PB)
+- [Single Page Application (SPA)](https://github.com/FbW-WD-23-E06/Single-Page-Apllication-SPA)
 
 ## Web Dev Course Calendar
 
